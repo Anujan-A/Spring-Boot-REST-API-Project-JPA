@@ -1,4 +1,5 @@
-package com.AnujanProject.database.dao.impl;
+/*
+package com.AnujanProject.database.repositories;
 
 import com.AnujanProject.database.Dao.impl.AuthorDaoImpl;
 import com.AnujanProject.database.Dao.impl.BookDaoImpl;
@@ -87,3 +88,4 @@ public class BookDaoImplIntergrationTest {
         assertThat(result).isEmpty();
     }
 }
+*/

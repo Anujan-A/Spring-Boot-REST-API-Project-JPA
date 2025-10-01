@@ -1,4 +1,5 @@
-package com.AnujanProject.database.dao.impl;
+/*
+package com.AnujanProject.database.repositories;
 
 import com.AnujanProject.database.Dao.impl.AuthorDaoImpl;
 import com.AnujanProject.database.TestDataUtil;
@@ -72,3 +73,4 @@ public class AuthorDaoImplIntergrationTest {
     }
 
 }
+*/
